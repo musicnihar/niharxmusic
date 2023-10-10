@@ -71,7 +71,7 @@ def stream_markup_timer(_, chat_id, played, dur):
                 text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/FUCK_OF_BOLTE"
             ),
             InlineKeyboardButton(
-                text="⛦ ᴄʜᴀᴛ ❥", url=f"https://t.me/TARONKASHAR"
+                text="⛦ ᴄʜᴀᴛ ❥", url=f"https://t.me/hilter_ops"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -93,7 +93,7 @@ def stream_markup(_, chat_id):
                 text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/FUCK_OF_BOLTE"
             ),
             InlineKeyboardButton(
-                text="⛦ ᴄʜᴀᴛ ❥", url=f"https://t.me/TARONKASHAR"
+                text="⛦ ᴄʜᴀᴛ ❥", url=f"https://t.me/hilter_ops"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
